@@ -1,0 +1,13 @@
+C:\Users\T5-SKYLAKE\Documents\Visual Studio 2013\Projects\Minesweeper\Minesweeper\bin\Release\Minesweeper.exe.config
+C:\Users\T5-SKYLAKE\Documents\Visual Studio 2013\Projects\Minesweeper\Minesweeper\bin\Release\Minesweeper.exe
+C:\Users\T5-SKYLAKE\Documents\Visual Studio 2013\Projects\Minesweeper\Minesweeper\bin\Release\Minesweeper.pdb
+C:\Users\T5-SKYLAKE\Documents\Visual Studio 2013\Projects\Minesweeper\Minesweeper\obj\Release\Minesweeper.csprojResolveAssemblyReference.cache
+C:\Users\T5-SKYLAKE\Documents\Visual Studio 2013\Projects\Minesweeper\Minesweeper\obj\Release\Minesweeper.Form_Main.resources
+C:\Users\T5-SKYLAKE\Documents\Visual Studio 2013\Projects\Minesweeper\Minesweeper\obj\Release\Minesweeper.Form_Setting.resources
+C:\Users\T5-SKYLAKE\Documents\Visual Studio 2013\Projects\Minesweeper\Minesweeper\obj\Release\Minesweeper.Form_Rank.resources
+C:\Users\T5-SKYLAKE\Documents\Visual Studio 2013\Projects\Minesweeper\Minesweeper\obj\Release\Minesweeper.Form_Load.resources
+C:\Users\T5-SKYLAKE\Documents\Visual Studio 2013\Projects\Minesweeper\Minesweeper\obj\Release\Minesweeper.Form_MineBurst.resources
+C:\Users\T5-SKYLAKE\Documents\Visual Studio 2013\Projects\Minesweeper\Minesweeper\obj\Release\Minesweeper.Properties.Resources.resources
+C:\Users\T5-SKYLAKE\Documents\Visual Studio 2013\Projects\Minesweeper\Minesweeper\obj\Release\Minesweeper.csproj.GenerateResource.Cache
+C:\Users\T5-SKYLAKE\Documents\Visual Studio 2013\Projects\Minesweeper\Minesweeper\obj\Release\Minesweeper.exe
+C:\Users\T5-SKYLAKE\Documents\Visual Studio 2013\Projects\Minesweeper\Minesweeper\obj\Release\Minesweeper.pdb
